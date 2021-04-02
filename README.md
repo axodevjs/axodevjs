@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexey
+- 👋 Hi, I’m Alexey(axodev)
 - 👀 I’m interested in Front-End development
 - 🌱 I’m currently learning Vue.js
-- 📫 How to reach me Telegram - @axxxegao
+- 📫 How to reach me: Telegram - @axodevru
