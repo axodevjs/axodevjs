@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Alexey(axodev)
-- 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning Vue.js
+- 👀 I’m interested in FullStack development
+- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me: Telegram - @axodevru
