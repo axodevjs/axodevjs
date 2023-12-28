@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Alexey
-- 👀 I’m interested in JS development
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me: Telegram - @axodevjs
