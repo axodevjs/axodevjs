@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Alexey
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: Telegram - @axodevjs
